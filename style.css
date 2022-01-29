@@ -1,0 +1,16 @@
+.center {
+	
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.gradient-text {
+	font-family: 'Rubik Beastly', cursive;
+  font-size: 90px;
+  background: -webkit-linear-gradient(#5f72be, #9921e8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
